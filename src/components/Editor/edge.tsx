@@ -1,4 +1,4 @@
-
+// fix the syntax error pls
 import React from 'react';
 import { Connection, CanvasNode } from '@/types/editor';
 import { Button } from '@/components/ui/button';
