@@ -20,3 +20,5 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+
+//leave this part the same don't change, for change make in another doc
